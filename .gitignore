@@ -1,0 +1,24 @@
+.nav{
+  background: linear-gradient(#7b7b7d,#474747);
+  color: white;
+  padding: 20px 0 20px 0;
+  list-style: none;
+  text-align: center;
+  font-size: 20px;
+  border-bottom: solid 3px #444444;
+}
+
+.nav li{
+
+ display: inline-block;;
+ padding: 0 25px 0 25px;
+}
+.nav li a{
+  text-decoration: none;
+  color:white;
+
+}
+
+.nav li a:hover{
+  color:#d5d5d5;
+  transition:  1s ;
